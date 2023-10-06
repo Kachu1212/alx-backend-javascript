@@ -7,3 +7,4 @@ This repository contains various projects worked on in partial fulfillment of th
 - [0x01-ES6_promise](./0x01-ES6_promise) - An introduction to `ES6` `Promise`, `Async/Await`
 - [0x02-ES6_classes](./0x02-ES6_classes) - An introduction to `ES6` `class`
 - [0x03-ES6_data_manipulation](./0x03-ES6_data_manipulation) - An introduction to `ES6 data manipulation`
+- [0x04-Typescript](./0x04-Typescript) - An introduction to `Typescript`
