@@ -8,4 +8,5 @@ This repository contains various projects worked on in partial fulfillment of th
 - [0x02-ES6_classes](./0x02-ES6_classes) - An introduction to `ES6` `class`
 - [0x03-ES6_data_manipulation](./0x03-ES6_data_manipulation) - An introduction to `ES6 data manipulation`
 - [0x04-Typescript](./0x04-Typescript) - An introduction to `Typescript`
+- [0x05-Node_JS_basic](./0x05-Node_JS_basic) - An introduction to Node_JS_basic
 - [0x06-unittests_in_js](./0x06-unittests_in_js) - Uunittests_in_js
